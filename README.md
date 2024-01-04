@@ -58,6 +58,7 @@ Wiring:
 ![zapojeni_2](https://github.com/DominikTomasek/pH-measurement-using-four-separate-probes/assets/55549002/fe89bddf-e8d0-4098-8a19-a04211a52a58)
 
 Used source: 
+
 [1] https://docs.arduino.cc/learn/electronics/lcd-displays
 
 [2] https://navody.dratek.cz/navody-k-produktum/modul-a-sonda-pro-mereni-ph.html
